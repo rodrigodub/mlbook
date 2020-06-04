@@ -2,3 +2,13 @@
 .ipynb_checkpoints/Housing-checkpoint.ipynb
 datasets/.DS_Store
 .DS_Store
+datasets/uniw/UNIW.zip
+datasets/uniw/UNIW_assays.csv
+datasets/uniw/UNIW_samples.csv
+datasets/uniw/UNIW_litho.csv
+datasets/uniw/UNIW.sql
+datasets/uniw/uniw_Strummer_pwd.zip
+datasets/spif/spif_samples.csv
+datasets/spif/spif_litho.csv
+datasets/spif/spif_assayflat.csv
+datasets/spif/spif_assay.csv
